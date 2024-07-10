@@ -1,5 +1,3 @@
-### README.md
-
 # AI Text to Speech
 This app allows users to input text and convert it to speech, providing an intuitive and interactive experience for text-to-audio conversion.
 
